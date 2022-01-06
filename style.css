@@ -58,6 +58,21 @@ html, body{
 #mainContent embed{
 	width: 100%;
 }
+#techReport{
+	width: 90%;
+	max-width: 1000px;
+	margin: 10px auto;
+	border: 1px solid #04030f;
+}
+#techReport img{
+	width: 90%;
+}
+#techReport p{
+	padding-left: 20px;
+}
+#techReport h4{
+	padding-left: 20px;
+}
 .LeftSideHeader{
 	float: left;
 	width: 25%;
