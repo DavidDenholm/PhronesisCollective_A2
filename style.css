@@ -25,10 +25,7 @@ html, body{
 	border-bottom: 1px solid #04030f;
 }
 .bottomSection{
-	margin-top: auto;
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: auto;
+	margin: 10px auto;
 	width: 90%;
 	max-width: 1000px;
 	
