@@ -67,10 +67,6 @@ html, body{
 #techReport img{
 	width: 90%;
 }
-#techReport p{
-	padding-left: 20px;
-	padding-right: 20px;
-}
 #techReport h4{
 	padding-left: 20px;
 }
@@ -102,6 +98,9 @@ html, body{
 .mainContentsRight{
 	float: right;
 	width: 75%;
+}
+.mainContentsRight p{
+	padding-left: 0px;
 }
 .mainContentsRight1{
 	float: right;
@@ -171,6 +170,8 @@ h4b{
 p{
 	font-family: Arial;
 	color: #F5FBEF;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 h5{
