@@ -121,7 +121,7 @@ html, body{
 	
 }
 .mainImg{
-	width: 90%;
+	width: 100%;
 	border-bottom: 1px solid #04030f;
 }
 .articleGrouping{
@@ -140,7 +140,7 @@ html, body{
 
 ul{
 	font-family: Arial;
-	color: #103456;
+	color: #04030f;
 }
 h1{
 	font-family: Arial;
