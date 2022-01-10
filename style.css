@@ -173,6 +173,29 @@ html, body{
 	width: 75%;
 	
 }
+
+.projectLeftSideHeader{
+	float: left;
+	width: 25%;
+}
+.projectLeftSideHeader img{
+	padding: auto;
+	width:100%;
+	
+}
+.projectContentsRight{
+	padding-top: 0px;
+	float: right;
+	width: 75%;
+}
+.projectContentsRight p{
+	padding-top: 0px;
+	padding-left: 30px;
+}
+.projectContentsRight ul{
+	padding-top: 0px;
+	margin-top: 0px;
+}
 .mainImg{
 	width: 100%;
 	border-bottom: 1px solid #04030f;
@@ -252,4 +275,13 @@ h5{
 .mobile-button {
 	width: 80%;
 	float: left;
+}
+span {  
+   display: inline-block; 
+  }
+span p2{
+	font-family: Arial;
+	color: #04030f;
+	padding-left: 0px;
+	padding-right: 0px;
 }
