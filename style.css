@@ -67,6 +67,14 @@ html, body{
 #techReport h4{
 	padding-left: 0px;
 }
+#techReport h2{
+	padding-left: 0px;
+	font-size: 1.5em;
+}
+#techReport3 h2{
+	padding-left: 0px;
+	font-size: 1.5em;
+}
 #techReport2{
 	width: 90%;
 	max-width: 1000px;
@@ -124,7 +132,7 @@ html, body{
 	width: 35%;
 }
 .reportLeftSideHeader img{
-	padding-top: 20px;
+	padding: 20px;
 	width:100%;
 	
 }
@@ -141,12 +149,11 @@ html, body{
 	width: 25%;
 }
 .LeftSideHeader h4{
-	padding-left: 50px;
+	padding-left: 20px;
 	margin: 0px;
 	display: inline-block;
 }
 .LeftSideHeader p{
-	padding-left: 60px;
 	margin: 0px;
 	display: inline-block;
 }
@@ -157,7 +164,7 @@ html, body{
 	margin: auto;
 }
 .LeftSideHeader img{
-	padding: auto;
+	padding: 20px;
 	width:80%;
 	
 }
@@ -246,7 +253,7 @@ h4{
 h4a{
 	font-family: Arial;
 	color: #04030f;
-	padding: 0px;
+	padding: 20px;
 	margin: 0px;
 }
 h4b{
@@ -273,7 +280,6 @@ h5{
 }
 .mobile-button {
 	width: 80%;
-	float: left;
 }
 span {  
    display: inline-block; 
