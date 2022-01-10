@@ -175,17 +175,17 @@ html, body{
 }
 
 .projectLeftSideHeader{
-	float: right;
+	float: left;
 	width: 25%;
 }
 .projectLeftSideHeader img{
-	padding: auto;
+	padding: 20px;
 	width:100%;
 	
 }
 .projectContentsRight{
 	padding-top: 0px;
-	float: left;
+	float: right;
 	width: 70%;
 }
 .projectContentsRight p{
