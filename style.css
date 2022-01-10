@@ -175,7 +175,7 @@ html, body{
 }
 
 .projectLeftSideHeader{
-	float: left;
+	float: right;
 	width: 25%;
 }
 .projectLeftSideHeader img{
@@ -185,7 +185,7 @@ html, body{
 }
 .projectContentsRight{
 	padding-top: 0px;
-	float: right;
+	float: left;
 	width: 70%;
 }
 .projectContentsRight p{
