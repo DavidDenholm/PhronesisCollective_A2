@@ -192,6 +192,9 @@ html, body{
 	padding-top: 0px;
 	padding-left: 30px;
 }
+.projectContentsRight ul{
+	padding-top: 10px;
+}
 .mainImg{
 	width: 100%;
 	border-bottom: 1px solid #04030f;
