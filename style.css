@@ -55,6 +55,45 @@ html, body{
 #mainContent embed{
 	width: 100%;
 }
+
+#referenceContent{
+	width: 90%;
+	max-width: 1000px;
+	margin: 10px auto;
+	border: 1px solid #04030f;
+}
+#referenceContent h4{
+	padding-top: 20px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#referenceContent p{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#referenceContent p2{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#referenceContent a{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
 #techReport{
 	width: 90%;
 	max-width: 1000px;
