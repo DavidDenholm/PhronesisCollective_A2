@@ -75,8 +75,9 @@ html, body{
 	padding-bottom: 0px;
 	margin-top: 0px;
 	margin-bottom: 0px;
-	padding-left: 20px;
+	padding-left: 0px;
 	padding-right: 20px;
+	margin-left: 0px;
 }
 #referenceContent p2{
 	padding-top: 0px;
@@ -93,6 +94,7 @@ html, body{
 	margin-bottom: 0px;
 	padding-left: 20px;
 	padding-right: 20px;
+	margin-left: 0px;
 }
 #techReport{
 	width: 90%;
@@ -102,6 +104,7 @@ html, body{
 }
 #techReport img{
 	width: 70%;
+	padding-bottom: 20px;
 }
 #techReport h4{
 	padding-left: 0px;
@@ -129,6 +132,9 @@ html, body{
 #techReport2 img{
 	padding-left: 20px;
 	width: 90%;
+}
+#techReport2 a{
+	padding-left: 20px;
 }
 
 #techReport3{
@@ -222,6 +228,9 @@ html, body{
 }
 .mainContentsRight p{
 	padding-left: 0px;
+}
+.mainContentsRight img{
+	padding-bottom: 20px;
 }
 .mainContentsRight1{
 	float: right;
