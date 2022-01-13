@@ -135,6 +135,10 @@ html, body{
 #techReport2 p{
 	padding-left: 20px;
 }
+#techReport2 p2{
+	padding-left: 20px;
+	padding-right: 20px;
+}
 #techReport2 img{
 	width: 90%;
 }
